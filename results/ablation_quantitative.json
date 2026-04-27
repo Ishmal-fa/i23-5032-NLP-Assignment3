@@ -1,1 +1,5 @@
-
+{
+  "rag_perplexity": 1.4542310212740897,
+  "baseline_perplexity": 1.4820440818234648,
+  "ppl_improvement": 0.027813060549375157
+}

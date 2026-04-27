@@ -1,0 +1,37 @@
+[
+  {
+    "review": "The only minor complaint would be the lip which isn't rounded like ceramic cups are.  I notice that at the start but it quickly became normal in use.  It has a reasonable center of gravity which I prefer to the ones with more of a travel mug shape.  I did drop one and it bounced nicely with no damage. The handle is big enough to make it an easy pickup.",
+    "true_sentiment": "Positive",
+    "pred_sentiment": "Positive",
+    "length": "Medium",
+    "explanation": "reviewer pleased cooks reflecting genuine satisfaction"
+  },
+  {
+    "review": "Very good price, had bought it because I was into R/C Cars and saw people mounting these cams on them but the distance in which this still works with the receiver is not to far and if you do want to go some distance then it has to be in an open area with nothing blocking the signal. I guess I was kinda hoping more from this item but for the price I should had figured.",
+    "true_sentiment": "Negative",
+    "pred_sentiment": "Neutral",
+    "length": "Medium",
+    "explanation": "mixed feelings exceeded begin result neutral overall rating"
+  },
+  {
+    "review": "LOUD little speaker for it's size.Feels super sturdy, durable, nice touch.Love the features of it, everything is nice and rigid and protected.Highs and mids sound great, bass is lacking and could use some work.But something to play for a group outdoors, indoors, this works perfectly.Gets very loud very fast, and works awesome when doubled up!",
+    "true_sentiment": "Neutral",
+    "pred_sentiment": "Positive",
+    "length": "Medium",
+    "explanation": "review positive customer satisfied money prime"
+  },
+  {
+    "review": "Did all the steps for set up on my TV.....did not get a single channel....changed my TV setting to ANtenna input and placed it close to window...still did not work....piece of junk",
+    "true_sentiment": "Negative",
+    "pred_sentiment": "Negative",
+    "length": "Medium",
+    "explanation": "customer sought refund issues indicating deep dissatisfaction"
+  },
+  {
+    "review": "The PSWI225 arrived quickly and in good condition. The finish of the unit was nice, and it felt well built. Unfortunately, it goes downhill from there. From day one, the output seemed to be lacking (and I'm no bass-head), and the auto turn-on refused to sense a signal. But then, loud POP noises starting happening at random intervals. I tried all manner of power conditioners, ground loop isolators, etc. and nothing did the trick. Eventually, I discovered the wireless transmitter was getting some kind of interference (regardless of channel). But by now, the output level had fallen to almost nothing with the volume the whole way up, so I gave up and requested a refund. My Parts Express 8\" subwoofer for $69 performed much better, to be perfectly honest.In summary, good concept... not-ready-for-primetime execution. Polk needs to add a more robust wireless solution (the one from Outlaw Audio works well), and a more powerful amp (and/or more efficient driver). I'll be sticking with Parts Express for my cheap but GOOD performing subwoofer needs.",
+    "true_sentiment": "Negative",
+    "pred_sentiment": "Negative",
+    "length": "Long",
+    "explanation": "poor value money issues first main complaints"
+  }
+]
